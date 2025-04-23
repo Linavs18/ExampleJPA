@@ -137,7 +137,7 @@ public class KeyRoom implements Serializable {
 
     @Override
     public String toString() {
-        return "co.edu.sena.examplejpa.model.KeyRoom[ id=" + id + " ]";
+        return name;
     }
     
 }

@@ -99,7 +99,7 @@ public class EmployeeType implements Serializable {
 
     @Override
     public String toString() {
-        return "co.edu.sena.examplejpa.model.EmployeeType[ id=" + id + " ]";
+        return descript;
     }
     
 }
